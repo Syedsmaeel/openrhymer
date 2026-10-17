@@ -1,8 +1,18 @@
 # openrhymer
 
-Hi, I'm **Syed Ismaeel** (rhymer). I'm a software engineer working in IT and AI, and I write Rust.
+Hi, I'm **Syed Ismaeel** (rhymer). I'm a software engineer working in IT and AI, and I'm learning Rust.
+
+**Email:** syedismaeel227799@proton.me
 
 This repository is a small, open place to introduce myself and to talk. It has no code yet.
+
+## Skills
+
+- **Business management:** voluntary and non-voluntary work, or based on the idea
+- **Linux:** basic (Debian)
+- **Programming:** Rust (learning stage)
+
+> I'm valuable to your company if you train me enough.
 
 ## What this is for
 
